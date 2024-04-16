@@ -1,4 +1,4 @@
-name: HARK_SSJ_example
+name: KS-HARK-SSJ-Example
 
 channels:
   - conda-forge
