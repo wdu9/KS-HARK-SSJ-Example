@@ -6,6 +6,6 @@ cond activate KS-HARK-SSJ-Example
 
 change directory to this repo
 
-jupyterlab
+jupyter lab
 
 Then select the ipynb file
